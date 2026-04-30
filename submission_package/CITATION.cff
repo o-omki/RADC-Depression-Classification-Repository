@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "RADC Depression Classification Repository"
+authors:
+  - family-names: "D Omkar"
+    given-names: "Murty"
+version: "1.0.0"

@@ -1,0 +1,7 @@
+torch==2.9.0+cu128
+transformers==5.1.0
+datasets==4.5.0
+scikit-learn==1.8.0
+accelerate
+sentence-transformers
+evaluate
